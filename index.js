@@ -1,6 +1,10 @@
-// Server Info:
-// Private Editor: https://replit.com/@Redmi9Prime/Androver
-// Public Webview Url: https://ca391731-38ce-42d7-a8be-86e9ea4ad3b3-00-2qxfsyfrz7bcu.riker.replit.dev/
+// Private Web Server Url --->
+// https://replit.com/@Redmi9Prime/Androver
+// https://dashboard.render.com/
+// 
+// Public Webview Url --->
+// https://ca391731-38ce-42d7-a8be-86e9ea4ad3b3-00-2qxfsyfrz7bcu.riker.replit.dev
+// https://androverbot-server.onrender.com
 
 const express = require('express');
 const webSocket = require('ws');
